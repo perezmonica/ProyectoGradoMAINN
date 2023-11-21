@@ -18,7 +18,7 @@ The DT model is evaluated by demonstrating its ability to accurately replicate t
 * [Python](http://www.python.org) version >= 3.7;
 * [Numpy](http://www.numpy.org), the core numerical extensions for linear algebra and multidimensional arrays;
 * [Pandas](http://pandas.pydata.org/), Python version of R dataframe;
-* [Geopandas] (https://geopandas.org/en/stable/), to get analysis in geospatial information;
+* [Geopandas](https://geopandas.org/en/stable/), to get analysis in geospatial information;
 * [Matplotlib](http://matplotlib.sf.net), plotting and graphing libraries;
 
 ## Documents and Models
