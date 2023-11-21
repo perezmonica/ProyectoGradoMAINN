@@ -14,12 +14,16 @@ The DT implementation is performed in NetLogo, a multi-agent modeling environmen
 The DT model is evaluated by demonstrating its ability to accurately replicate the behavior of the real transportation system, especially during peak hours. The results show that the DT is able to effectively reflect the operational dynamics of TransMilenio, validating the simulation approach and the integration of analytical data in decision making and strategic planning.
 
 
-## Requiriments 
-* [Python](http://www.python.org) version >= 3.7;
-* [Numpy](http://www.numpy.org), the core numerical extensions for linear algebra and multidimensional arrays;
-* [Pandas](http://pandas.pydata.org/), Python version of R dataframe;
-* [Geopandas](https://geopandas.org/en/stable/), to get analysis in geospatial information;
-* [Matplotlib](http://matplotlib.sf.net), plotting and graphing libraries;
+## Requirimentos 
+* [Python](http://www.python.org) version >= 3.7
+* [Numpy](http://www.numpy.org), the core numerical extensions for linear algebra and multidimensional arrays
+* [Pandas](http://pandas.pydata.org/), Python version of R dataframe
+* [Geopandas](https://geopandas.org/en/stable/), to get analysis in geospatial information
+* [Matplotlib](http://matplotlib.sf.net), plotting and graphing libraries
 
-## Documents and Models
+* [Netlogo](http://ccl.northwestern.edu/netlogo/) version >=6
 
+## Documentos y Modelos
+*[Documento PDF](https://github.com/perezmonica/ProyectoGradoMAINN/blob/main/Documento%20final.pdf)
+*[Revision de datos y modelo ARIMA](https://github.com/perezmonica/ProyectoGradoMAINN/blob/main/Proyecto_Analitica.ipynb)
+*[Digital Twin en Netlogo](https://github.com/perezmonica/ProyectoGradoMAINN/blob/main/DigitalTwinTrasmilenio.nlogo)
